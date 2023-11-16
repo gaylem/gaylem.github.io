@@ -6,8 +6,9 @@ function Presentations() {
     <div className='flex flex-col md:flex-row items-center justify-center my-10 pt-8'>
       <div className='w-full md:w-7/12'>
         <Title>Presentations</Title>
+        <p className='pb-2 pt-2'>"Apache Kafka Explained" | Tech Talk sponsored by Remake Labs - October 2023</p>
         <div className='py-5 text-center' style={{ position: 'relative', paddingBottom: '56.25%' }}>
-          <iframe src='https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7123385886758633473?compact=1' width='100%' height='100%' style={{ position: 'absolute', top: '0', left: '0', width: '100%', height: '100%' }} frameBorder='0' allowFullScreen='' title='Embedded post'></iframe>
+          <iframe src='/assets/trimmed-tech-talk.mp4' width='100%' height='100%' style={{ position: 'absolute', top: '0', left: '0', width: '100%', height: '100%' }} frameBorder='0' allowFullScreen='' title='Embedded post'></iframe>
         </div>
       </div>
     </div>
