@@ -4,7 +4,7 @@ function PortfolioItem({ title, imgUrl, description, stack, link }) {
   return (
     <a href={link} target='_blank' rel='noopener noreferrer' className='border-2 border-stone-900 dark:border-white rounded-md flex flex-col h-full'>
       <div className='relative h-64 md:h-80'>
-        <img src={imgUrl} alt='portfolio' className='w-full h-full object-cover object-top cursor-pointer rounded-md' />
+        <img src={imgUrl} alt='portfolio' className='w-full h-full object-cover object-top cursor-pointer rounded-none' />
       </div>
       <div className='w-full p-6 flex flex-col justify-between'>
         <div>
