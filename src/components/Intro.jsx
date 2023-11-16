@@ -3,7 +3,7 @@ import React from 'react';
 function Intro() {
   return (
     <div className='flex items-center justify-center flex-col text-center pt-20 pb-6'>
-      <img alt='name' src='/assets/selfie.jpeg' className='h-56 w-56 rounded-full border-4 dark:border-orange-300 border-violet-600' />
+      <img alt='name' src='/portfolio/assets/selfie.jpeg' className='h-56 w-56 rounded-full border-4 dark:border-orange-300 border-violet-600' />
       <h1 className='text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold pt-5'>Gayle Martin</h1>
       <p className='text-base md:text-4xl mb-3 font-medium dark:text-orange-300 text-violet-600 p-2'>Software Engineer</p>
       <p className='text-base/7 max-w-xl mb-6 font-bold'>Hi there! I'm a Software Engineer and former product manager with five years of experience in fintech, e-commerce, affiliate marketing, and SEO. I build software that melds human-centered design with innovative backend technologies.</p>
