@@ -25,6 +25,6 @@ export default [
     imgUrl: '/portfolio/assets/portfolio.png',
     description: 'My personal portfolio website',
     stack: ['Tailwind', 'React', 'Vite', 'JavaScript'],
-    link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+    link: 'https://github.com/palemartian/portfolio',
   },
 ];
