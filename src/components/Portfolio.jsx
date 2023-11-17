@@ -10,7 +10,7 @@ function Portfolio() {
       <div className='flex flex-col md:flex-row items-center justify-center'>
         <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4'>
           {portfolio.map(project => (
-            <PortfolioItem imgUrl={project.imgUrl} title={project.title} description={project.description} stack={project.stack} link={project.link} />
+            <PortfolioItem imgUrl={project.imgUrl} title={project.title} description={project.description} stack={project.stack} key={project.title}link={project.link} />
           ))}
         </div>
       </div>
