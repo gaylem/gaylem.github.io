@@ -25,6 +25,6 @@ export default [
     imgUrl: '/assets/portfolio.png',
     description: 'My personal portfolio website',
     stack: ['Tailwind', 'React', 'Vite', 'JavaScript'],
-    link: 'https://github.com/palemartian/portfolio',
+    link: 'https://github.com/gaylem/gaylem.github.io',
   },
 ];
