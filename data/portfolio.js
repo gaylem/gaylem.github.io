@@ -1,7 +1,7 @@
 export default [
   {
     title: 'quil',
-    imgUrl: '/portfolio/assets/quil.png',
+    imgUrl: '/assets/quil.png',
     description: 'Meditation journal',
     stack: ['React', 'HTML', 'SCSS', 'JavaScript', 'Node.js', 'Express', 'NoSQL', 'BCrypt', 'JWT', 'Webpack'],
     link: 'https://github.com/palemartian/quil-meditation-journal',
