@@ -26,7 +26,7 @@ export default [
   {
     year: '2011 - 2018',
     title: 'Groupon: The Early Years',
-    duration: '5 year',
+    duration: '5 years',
     details: "I kicked off my career at Groupon as a writer. Back then, jokes were king, and I was tasked with incorporating humor into our deal copy. While writing thousands of deal descriptions, I realized we needed to get more bang for our buck out of all this content. I studied SEO to see if search engines could help ramp up the visibility of our carefully crafted prose. This research soon became a course that earned me a rep as an SEO subject-matter expert. It's also one of many moves that landed me a role on a new affiliate-marketing channel, now known as Groupon Coupons.",
   },
 ];
