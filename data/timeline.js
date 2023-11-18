@@ -2,12 +2,12 @@ export default [
   {
     year: 'Today',
     title: 'Software Engineer',
-    details: "As a PM-turned-Engineer, I always build holistically and with the customer in mind. I'm active in the open source community and love solving problems with code. My skills span everything from React and Tailwind to Docker, Kubernetes, and AWS. Click around on my portfolio above to take a look at some of my projects, and use the contact form below if you want to reach out!",
+    details: "As a PM-turned-Engineer, I always build holistically and with the customer in mind. I'm active in the open source community and love solving problems with code. My skills span everything from JavaScript, React, and Python to Docker, Kubernetes, and AWS. Click around on my portfolio above to take a look at some of my projects, and use the contact form below if you want to reach out!",
   },
   {
     year: '2020 - 2023',
     title: 'Capital One & Coding',
-    details: 'My work at Groupon had been largely frontend-focused, so I accepted a role at Capital One with a data engineering team to experience another side of the stack. We used AWS services and in-house tools to build 25+ data pipelines (there were so many, I honestly lost count). We used these to receive data from an outside vendor and transform it so our internal teams could balance our ledger, run fraud checks, and meet regulatory requirements. It was another crash course, but this time I had to learn data engineering and governance, finance, and compliance. I also learned Python and Javascript, and used SQL on the job.',
+    details: 'My work at Groupon had been largely frontend-focused, so I accepted a role at Capital One with a data engineering team to experience another side of the stack. We used AWS services and in-house tools to build 25+ data pipelines (there were so many, I honestly lost count). We used these to receive data from an outside vendor and transform it so our internal teams could balance our ledger, run fraud checks, and meet regulatory requirements. It was another crash course, but this time I had to learn data engineering and governance, finance, and compliance. I also learned Python and Javascript, used SQL on the job, and attended an advanced residency for software engineering.',
   },
   {
     year: '2019 - 2020',
