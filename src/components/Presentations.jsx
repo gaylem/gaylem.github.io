@@ -8,7 +8,9 @@ function Presentations() {
         <Title>Presentations</Title>
         <p className='pb-2 pt-2'>"Apache Kafka Explained" | Tech Talk sponsored by Remake Labs - October 2023</p>
         <div className='py-5 text-center' style={{ position: 'relative', paddingBottom: '56.25%' }}>
-          <iframe src='/assets/trimmed-tech-talk.mp4?autoplay=0' width='100%' height='100%' style={{ position: 'absolute', top: '0', left: '0', width: '100%', height: '100%' }} frameBorder='0' allowFullScreen='' title='Embedded post'></iframe>
+          <video width='100%' height='100%' style={{ position: 'absolute', top: '0', left: '0', width: '100%', height: '100%' }} controls>
+            <source src="/assets/trimmed-tech-talk.mp4?autoplay=0'" type='video/mp4' />
+          </video>
         </div>
       </div>
     </div>
