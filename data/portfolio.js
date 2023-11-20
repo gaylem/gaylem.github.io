@@ -3,14 +3,34 @@ export default [
     title: 'quil',
     imgUrl: '/assets/quil.png',
     description: 'Meditation journal',
-    stack: ['React', 'HTML', 'SCSS', 'JavaScript', 'Node.js', 'Express', 'NoSQL', 'BCrypt', 'JWT', 'Webpack'],
+    stack: [
+      'React',
+      'HTML',
+      'SCSS',
+      'JavaScript',
+      'Node.js',
+      'Express',
+      'NoSQL',
+      'BCrypt',
+      'JWT',
+      'Webpack',
+    ],
     link: 'https://github.com/palemartian/quil-meditation-journal',
   },
   {
     title: 'moat',
     imgUrl: '/assets/moat.png',
     description: 'Kubernetes security monitoring',
-    stack: ['Kubernetes', 'Docker', 'AWS', 'Grafana', 'Prometheus', 'TypeScript', 'Node,js', 'Express'],
+    stack: [
+      'Kubernetes',
+      'Docker',
+      'AWS',
+      'Grafana',
+      'Prometheus',
+      'TypeScript',
+      'Node,js',
+      'Express',
+    ],
     link: 'https://github.com/oslabs-beta/moat',
   },
   {
@@ -27,4 +47,4 @@ export default [
     stack: ['Tailwind', 'React', 'Vite', 'JavaScript'],
     link: 'https://github.com/gaylem/gaylem.github.io',
   },
-];
+]

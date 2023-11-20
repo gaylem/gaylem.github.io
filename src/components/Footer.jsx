@@ -1,11 +1,13 @@
-import React from 'react';
+import React from 'react'
 
 function Footer() {
   return (
-    <div className='py-5 text-center'>
-      <p className='text-sm mt-2  opacity-50'>&copy; {new Date().getFullYear()} Gayle Martin. All rights reserved.</p>
+    <div className="py-5 text-center">
+      <p className="text-sm mt-2  opacity-50">
+        &copy; {new Date().getFullYear()} Gayle Martin. All rights reserved.
+      </p>
     </div>
-  );
+  )
 }
 
-export default Footer;
+export default Footer
