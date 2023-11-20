@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 
 function TimelineItem({ year, title, details }) {
   return (
@@ -19,6 +20,12 @@ function TimelineItem({ year, title, details }) {
       </li>
     </ol>
   )
+}
+
+TimelineItem.propTypes = {
+  year: PropTypes.number.isRequired,
+  title: PropTypes.string.isRequired,
+  details: PropTypes.string.isRequired,
 }
 
 export default TimelineItem
