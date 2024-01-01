@@ -15,7 +15,7 @@ export default [
       'JWT',
       'Webpack',
     ],
-    link: 'https://github.com/palemartian/quil-meditation-journal',
+    link: 'https://github.com/gaylem/quil-meditation-journal',
   },
   {
     title: 'moat',
@@ -38,7 +38,7 @@ export default [
     imgUrl: '/assets/space-news.png',
     description: "NASA's image of the day in a chrome browser extension",
     stack: ['HTML', 'CSS', 'JavaScript'],
-    link: 'https://github.com/palemartian/space-news',
+    link: 'https://github.com/gaylem/space-news',
   },
   {
     title: 'My Portfolio',
