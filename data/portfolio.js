@@ -15,7 +15,7 @@ export default [
       'JWT',
       'Webpack',
     ],
-    link: 'https://github.com/gaylem/quil-meditation-journal',
+    link: 'https://quilmind.com',
   },
   {
     title: 'moat',
