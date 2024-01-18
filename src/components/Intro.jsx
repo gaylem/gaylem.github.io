@@ -6,12 +6,12 @@ function Intro() {
       <img
         alt="name"
         src="/assets/selfie.jpeg"
-        className="h-32 md:h-48 lg:h-56 w-32 md:w-48 lg:w-56 rounded-full border-4 dark:border-orange-300 border-violet-600"
+        className="h-32 md:h-48 lg:h-56 w-32 md:w-48 lg:w-56 rounded-full border-4 dark:border-orange-300 border-sky-700"
       />
       <h1 className="text-4xl md:text-6xl dark:text-white mb-1 md:mb-3 font-bold pt-5">
         Gayle Martin
       </h1>
-      <p className="text-3xl md:text-4xl mb-3 font-medium dark:text-orange-300 text-violet-600 p-2">
+      <p className="text-3xl md:text-4xl mb-3 font-medium dark:text-orange-300 text-sky-700 p-2">
         Software Engineer
       </p>
       <p className="text-base md:text-lg max-w-xl mb-6 font-bold">
