@@ -7,8 +7,7 @@ function Presentations() {
       <div className="w-full md:w-7/12">
         <Title>Presentations</Title>
         <p className="pb-2 pt-2">
-          Apache Kafka Explained | Tech Talk sponsored by Remake Labs -
-          October 2023
+          Apache Kafka Explained | Tech Talk sponsored by Remake Labs - October 2023
         </p>
         <div
           className="py-5 text-center"

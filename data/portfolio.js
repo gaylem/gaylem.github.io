@@ -14,7 +14,7 @@ export default [
       'BCrypt',
       'JWT',
       'Webpack',
-      'Heroku'
+      'Heroku',
     ],
     link: 'https://quilmind.com',
   },

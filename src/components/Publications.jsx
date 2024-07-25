@@ -6,7 +6,7 @@ function Publications() {
     <div className="flex flex-col md:flex-row items-center justify-center my-10 pt-8">
       <div className="w-full md:w-7/12">
         <Title>Publications</Title>
-        <ul className="list-disc pl-4wea">
+        <ul className="list-disc pl-4">
           <li className="pb-2 pt-2">
             <a
               href="https://medium.com/@gayle.swe/my-heroku-pipeline-part-1-node-js-webpack-and-cors-c19da8df8823"
