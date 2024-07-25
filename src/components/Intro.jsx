@@ -15,8 +15,8 @@ function Intro() {
         Software Engineer
       </p>
       <p className="text-base md:text-lg max-w-xl mb-6 font-bold">
-        Hi there! I&apos;m a Software Engineer and Product Manager with five
-        years of experience in fintech, e-commerce, affiliate marketing, and
+        Hi there! I&apos;m a Software Engineer with five years of product
+        management experience in fintech, e-commerce, affiliate marketing, and
         SEO. I build software that melds human-centered design with innovative
         backend technologies.
       </p>

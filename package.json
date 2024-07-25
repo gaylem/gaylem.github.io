@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "private": true,
+  "type": "module",
   "version": "0.0.0",
   "homepage": "https://gaylem.github.io/",
   "scripts": {

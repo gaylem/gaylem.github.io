@@ -21,7 +21,7 @@ export default [
     year: '2018 - 2019',
     title: 'Hello, Product!',
     details:
-      'The Coupons channel was brand new and we had little to no tooling, so I jumped in with the engineers to identify requirements for a content management system. Eventually, I started taking on more and more complex projects. I used process mapping to identify inefficiencies in our workflows and worked with our engineering team to implement solutions to our problems. One day my manager said, "You\'re not a project manager, you\'re a product manager." Not long after, packed up my desk and sat down next to my engineering team. (Side note: remember when we all went to the office everyday and had desks? That was wild.)',
+      'The Coupons channel was brand new and we had little to no tooling, so I jumped in with the engineers to identify requirements for a content management system. Eventually, I started taking on more and more complex projects. I used process mapping to identify inefficiencies in our workflows and worked with our engineering team to implement solutions to our problems. One day my manager said, "You\'re not a project manager, you\'re a product manager." Not long after, packed up my desk and sat down next to my engineering team.',
   },
   {
     year: '2011 - 2018',

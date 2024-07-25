@@ -5,6 +5,7 @@ import Intro from './components/Intro'
 import Portfolio from './components/Portfolio'
 import Timeline from './components/Timeline'
 import Presentations from './components/Presentations'
+import Publications from './components/Publications'
 
 function App() {
   const [theme, setTheme] = useState(null)
@@ -77,6 +78,7 @@ function App() {
           <Intro />
           <Portfolio />
           <Presentations />
+          <Publications />
           <Timeline />
           <Contact />
           <Footer />

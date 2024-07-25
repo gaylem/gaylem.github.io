@@ -14,6 +14,7 @@ export default [
       'BCrypt',
       'JWT',
       'Webpack',
+      'Heroku'
     ],
     link: 'https://quilmind.com',
   },
@@ -32,6 +33,27 @@ export default [
       'Express',
     ],
     link: 'https://github.com/oslabs-beta/moat',
+  },
+  {
+    title: 'Hack for LA',
+    imgUrl: '/assets/hackforla.png',
+    description: 'Open Source Civic Tech',
+    stack: [
+      'GitHub Actions',
+      'Docker',
+      'JavaScript',
+      'Node,js',
+      'Express',
+      'Jekyll',
+    ],
+    link: 'https://github.com/hackforla/website',
+  },
+  {
+    title: 'Weather App',
+    imgUrl: '/assets/weather-app.png',
+    description: 'Built with Open Weather API',
+    stack: ['JavaScript', 'React', 'Tailwind', 'Python', 'Flask'],
+    link: 'https://github.com/gaylem/weather-app',
   },
   {
     title: 'Space News!',
